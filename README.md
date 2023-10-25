@@ -1,7 +1,7 @@
 # test project
 
 ### Live demo
-
+https://tester-fba9a.web.app/
 
 ## Project setup
 ```
@@ -10,13 +10,5 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
-npm start
+npm dev
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
